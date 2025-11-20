@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tomás 👋</h1>
+<h1 align="center">Hi, I'm Tomás </h1>
 I am a computer and systems engineering student at Universidad Nacional de Colombia.  
 I'm passionate about building software and learning new technologies, even though I am not so good at it!
 
