@@ -6,7 +6,7 @@ I'm passionate about building software and learning new technologies, even thoug
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<img align="right" src="!(https://github.com/user-attachments/assets/5b7de8d4-1a9b-4ea2-afef-831a7f037b21" width="250" />
+<img align="right" src="https://github.com/user-attachments/assets/5b7de8d4-1a9b-4ea2-afef-831a7f037b21" width="250" />
 <!--
 **TomasGarzonGomez/TomasGarzonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
