@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tomás 👋</h1>
+I am a computer and systems engineering student at Universidad Nacional de Colombia.  
+I'm passionate about building software and learning new technologies, even though I am not so good at it!
 
+### Programming languages and Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+<img align="right" src="https://raw.githubusercontent.com/gist/yourimageurl.png" width="250" />
 <!--
 **TomasGarzonGomez/TomasGarzonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
